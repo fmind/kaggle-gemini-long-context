@@ -6,4 +6,5 @@ Demonstrate interesting use cases for Gemini's long context window
 - Kaggle Dataset:  https://www.kaggle.com/datasets/freaxmind/open-textbook-library
 - Kaggle Code: https://www.kaggle.com/code/freaxmind/open-textbooks-with-gemini-long-context
 - Video Slides: https://docs.google.com/presentation/d/1H7Kq8Ur3f76mknLcugR0ZaBFqtba6foLQS_i7KG_4Sc/edit?usp=sharing
+- Video Youtube: https://www.youtube.com/watch?v=V1C4Nr_lNf8
 - Github: https://github.com/fmind/kaggle-gemini-long-context
